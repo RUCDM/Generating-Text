@@ -1,20 +1,15 @@
 # Generating-Text
-## 使用方式
-## 本项目中用到的模型
-* word2vec/doc2vec [1],[2]
-* CNN [[3](#[3])]
-* SVM [4]
-* BILSTM+maxpooling[5]
+## 本模型使用的数据
+* Amazon_beauty
+* Amazon_Clothing_Shoes_and_Jewelry
+* Amazon_Office_Products
 
 ### 生成文本：
 | Input                         |output                                                                                  |
 |:-----------------------------:|:--------------------------------------------------------------------------------------:|
 |this is a well built calculator|this is a well built calculator to and and but the glue inkjet cardboard have the greasy|
 |i have a canon powershot       |i have a canon powershot so are not other color magnets. white or want to my that the of ivory is buy very magnets.|
-|docvec+SVM                 | |
-|word2vec+CNN               | |
-|word2vec+SimpleRNN         | |
-|word2vec+LSTM              ||
+|i wanted to make sure that     |i wanted to make sure that machine it's experience am file ink or you're made directly nature very that once at is medium sense.|
 
 ### 生成的模板：
 | Input                 | Precison      |    Recall    |  F-Measure   | settings                                  |
