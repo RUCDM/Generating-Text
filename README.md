@@ -8,6 +8,7 @@
 
 ### 生成文本：
 | Input                         |output                                                                                  |
+|:-----------------------------:|:--------------------------------------------------------------------------------------:|
 |this is a well built calculator|this is a well built calculator to and and but the glue inkjet cardboard have the greasy|
 |docvec+title+LDA+SVM       ||
 |docvec+SVM                 | |
