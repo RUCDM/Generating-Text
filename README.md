@@ -10,7 +10,7 @@
 | Input                         |output                                                                                  |
 |:-----------------------------:|:--------------------------------------------------------------------------------------:|
 |this is a well built calculator|this is a well built calculator to and and but the glue inkjet cardboard have the greasy|
-|docvec+title+LDA+SVM       ||
+|i have a canon powershot       |i have a canon powershot so are not other color magnets. white or want to my that the of ivory is buy very magnets.|
 |docvec+SVM                 | |
 |word2vec+CNN               | |
 |word2vec+SimpleRNN         | |
